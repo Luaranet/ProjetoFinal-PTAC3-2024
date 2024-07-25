@@ -1,0 +1,28 @@
+.rodape {
+    background-color: #800080; /* Purple */
+    padding: 20px;
+    text-align: center;
+}
+
+.ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.lista {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.lista img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
