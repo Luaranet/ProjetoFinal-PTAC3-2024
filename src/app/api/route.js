@@ -16,10 +16,10 @@ export const listaDeFilmes = [
         id: 2
       },
       {
-        titulo: "Como eu era antes de você",
-        imagem: "/produtos/como eu era antes de vc.png",
-        valor: 39.90, 
-        genero:"Romance",
+        titulo: "Gente grande",
+        imagem: "https://m.media-amazon.com/images/I/81O1RtrKH2L._AC_UL320_.jpg",
+        valor: 25.90,
+        genero:"comédia",
         id: 3
       },
       {
